@@ -6,9 +6,9 @@ Mailton Fernandes de Carvalho
 
 # Project Monkey and world of Blocks
 
-Problem Monkey
+# Problem Monkey
 The Monkey-and-Bananas problem is to help a monkey get bananas that are out of reach at any given time.
 
-Problem world of Blocks
+# Problem world of Blocks
 Carry blocks from one position to another on a flat surface.
 
