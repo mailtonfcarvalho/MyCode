@@ -1,7 +1,7 @@
 # Classic Planning
 This is a project for the master degree class *IN1100 (Agentes Cognitivos e Adaptativos - ACA)* at CIn/UFPE. Year 2019.1
 
-#Student
+# Student
 Mailton Fernandes de Carvalho
 
 # Project Monkey and world Blocks
